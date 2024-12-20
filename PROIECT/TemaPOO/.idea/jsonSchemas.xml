@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="1Password SSH Agent Config">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="1Password SSH Agent Config" />
+              <option name="relativePathToSchema" value="https://developer.1password.com/schema/ssh-agent-config.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="src/test/resources/testResources/accounts.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
